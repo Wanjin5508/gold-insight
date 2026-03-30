@@ -1,0 +1,14 @@
+# 参考：
+# - GitHub: KVignesh122/AssetNewsSentimentAnalyzer（新闻抓取 + 正文抽取工作流）
+# - GitHub: alphavantage/alpha_vantage_mcp（黄金/宏观数据能力）
+# - DeepSeek API Docs（OpenAI-compatible chat completions）
+
+streamlit>=1.38.0
+requests>=2.32.0
+pandas>=2.2.0
+feedparser>=6.0.11
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+readability-lxml>=0.8.1
+openai>=1.30.0
+python-dateutil>=2.9.0
